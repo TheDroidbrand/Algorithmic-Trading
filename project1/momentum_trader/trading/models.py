@@ -8,3 +8,11 @@ class Stock(models.Model):
 class PriceData(models.Model):
     pass
 
+class MomentumScore(models.Model):
+    pass
+
+class TradingSignal(models.Model):
+    pass
+
+class RebalanceEvent(models.Model):
+    pass
