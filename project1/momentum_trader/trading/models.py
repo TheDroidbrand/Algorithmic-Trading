@@ -1,3 +1,4 @@
+# pyright: reportMissingModuleSource=false
 from django.db import models
 
 # Create your models here.
